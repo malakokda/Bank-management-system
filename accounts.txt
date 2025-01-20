@@ -1,0 +1,7 @@
+9876547810,Waleed,waleed@icloud.com,6401.83625,01234567897,1-11-2008,Current
+1234567890,Ahmed,mololo@icloud.com,6721.9280625,01000100367,16-08-2012,Savings
+9876543210,Youssef,haneen@icloud.com,110.25,01000100879,14-09-2022,Savings
+2774265170,Hana,hana@icloud.com,1000.0,01062123630,27-12-2020,Current
+9794874284,Seif hana malak,seif@outlook.com,90.0,01004758971,27-12-2024,Current
+6409257898,Malak,malak@icloud.com,50.0,01110701959,02-01-2025,Savings
+6268475351,Mariem,malakokdaa@gmail.com,0,01210111111,07-01-2025,Current
